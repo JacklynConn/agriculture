@@ -1,3 +1,4 @@
+![Screenshot 2023-10-28 001226](https://github.com/JacklynConn/agriculture/assets/148744079/837da92a-4a64-48b1-ba27-0d88b1d13eed)
 # agriculture
 
 A new Flutter project.
