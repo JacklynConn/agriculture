@@ -1,3 +1,4 @@
+![Screenshot_20231028_105055](https://github.com/JacklynConn/agriculture/assets/148744079/316f03a0-bf06-4ede-9621-fc8bed8364f7)
 
 # agriculture
 
