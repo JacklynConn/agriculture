@@ -2,8 +2,6 @@ import 'package:agriculture/data/product.dart';
 import 'package:agriculture/widgets/cart_item_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_iconly/flutter_iconly.dart';
-import 'package:flutter_iconly/flutter_iconly.dart';
-import 'package:flutter_iconly/flutter_iconly.dart';
 
 class CartPage extends StatelessWidget {
   const CartPage({super.key});
@@ -38,7 +36,7 @@ class CartPage extends StatelessWidget {
             ],
           ),
           // CHECKOUT BUTTON
-          SizedBox(height: 20),
+          const SizedBox(height: 20),
           FilledButton.icon(
             onPressed: () {},
             icon: const Icon(IconlyBold.arrowRight),
