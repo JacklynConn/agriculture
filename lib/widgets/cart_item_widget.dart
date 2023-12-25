@@ -158,7 +158,7 @@ class CartItemWidget extends StatelessWidget {
                                 minWidth: 30,
                                 minHeight: 30,
                               ),
-                              children: [
+                              children: const [
                                 Icon(Icons.remove, size: 20),
                                 Text("2"),
                                 Icon(Icons.add, size: 20),
