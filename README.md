@@ -1,4 +1,6 @@
 ![Artboard 1](https://github.com/user-attachments/assets/2c3ae515-3f70-4f20-8350-5cf14e5c8044)
+![Artboard 1 copy](https://github.com/user-attachments/assets/af321832-0262-431f-9004-29be69b64c46)
+![Artboard 1 copy 2](https://github.com/user-attachments/assets/98eea845-23e7-496b-be8e-1c7e9ebeaf14)
 
 # agriculture
 
